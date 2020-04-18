@@ -1,0 +1,6 @@
+{
+  "name": "covid-ios-project",
+  "description": "Covid Hackathon",
+  "repository": "https://github.com/malachischrager/Covid-iOS-App.git",
+  "keywords": ["node", "express", "heroku"],
+}

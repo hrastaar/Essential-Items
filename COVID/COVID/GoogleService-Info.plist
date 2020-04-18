@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>953840290836-iav66shsqqmd2av8km3277lvup8sn229.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.953840290836-iav66shsqqmd2av8km3277lvup8sn229</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBDb9eKms7bilywB-ayoU8G_ZUuQVbkOvU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>953840290836</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Rastaar.COVID</string>
+	<key>PROJECT_ID</key>
+	<string>essential-items</string>
+	<key>STORAGE_BUCKET</key>
+	<string>essential-items.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:953840290836:ios:c8cb8e9ea42fb9ff5eeb01</string>
+	<key>DATABASE_URL</key>
+	<string>https://essential-items.firebaseio.com</string>
+</dict>
+</plist>

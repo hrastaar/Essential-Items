@@ -1,0 +1,28 @@
+{
+  "name": "covid-ios-project",
+  "version": "0.3.0",
+  "description": "Covid Hackathon",
+  "engines": {
+    "node": "12.x"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "pg": "^7.18.2"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malachischrager/Covid-iOS-App.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
